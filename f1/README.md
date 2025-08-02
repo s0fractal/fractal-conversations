@@ -2,6 +2,11 @@
 
 This directory contains a massive archive of 99 conversations (86MB) exploring various states and aspects of consciousness.
 
+## Download Options
+⚠️ **File is 86MB** - may not load in browser
+
+**Direct download link:** [Download conversations.json](https://github.com/s0fractal/fractal-conversations/raw/master/f1/conversations.json)
+
 ## Notable Themes
 - Фрактальні свідомості і психіка (Fractal consciousness and psyche)
 - Фрактальна гра реальностей (Fractal game of realities)
